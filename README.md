@@ -143,3 +143,7 @@ to features so runs can resume and be audited.
 - Symlinked directories and generated build output are skipped during mapping.
 
 See `docs/spec.md` for the longer product and implementation spec.
+
+## Contributors
+
+Everyone credited so far: [CONTRIBUTORS.md](CONTRIBUTORS.md).
